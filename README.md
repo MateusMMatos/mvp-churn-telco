@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MateusMMatos/mvp-churn-telco/blob/main/notebook.ipynb)
 
-Projeto final (MVP) da Pós-Graduação em Análise de Dados com IA. Um projeto completo de Machine Learning que prevê quais clientes de uma operadora de telecom têm risco de cancelar o serviço (churn), permitindo à empresa agir antes e reduzir perdas.
+Projeto final (MVP) da disciplina **Machine Learning & Analytics**, da Pós-Graduação em **Ciência de Dados e Analytics**. Um projeto completo de Machine Learning que prevê quais clientes de uma operadora de telecom têm risco de cancelar o serviço (churn), permitindo à empresa agir antes e reduzir perdas.
 
 O foco do MVP é demonstrar o fluxo completo de um projeto de ML — do problema à conclusão — com cada decisão justificada, solução reprodutível e bem documentada.
 
@@ -62,4 +62,4 @@ mvp-churn-telco/
 
 ---
 
-Autor: Mateus M. Matos — Pós-Graduação em Análise de Dados com IA
+Autor: Mateus M. Matos — Machine Learning & Analytics, Pós-Graduação em Ciência de Dados e Analytics
